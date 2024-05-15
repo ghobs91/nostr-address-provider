@@ -1,6 +1,6 @@
 export default {
   // your domain name
-  host: "zaps.lol",
+  host: "tautos.vercel.app",
 
   // set to true to disable registration site-wide
   registrationDisabled: false,
