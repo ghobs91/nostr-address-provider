@@ -1,6 +1,6 @@
 export default {
   // your domain name
-  host: "tautos.vercel.app",
+  host: "agorasocial.vercel.app",
 
   // set to true to disable registration site-wide
   registrationDisabled: false,
